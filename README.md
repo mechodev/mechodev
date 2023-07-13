@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mechodev
 - 👀 I’m interested in React, Vue JS, Larvel, Sails JS, HTML, CSS, JS, Nest JS, sass
-- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me : mechakbiti33@gmail.com, mechak.biti@outlook.fr, www.linkedin.com/in/b2mr-dev .
 
